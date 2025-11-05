@@ -7,6 +7,7 @@ import java.util.Collections;
 import java.util.Scanner;
 
 /*Si lees esto es que está editado*/
+/* Comento para comprobar que funciona*/
 
 public class arrays1
 {
