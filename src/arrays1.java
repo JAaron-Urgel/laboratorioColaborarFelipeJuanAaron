@@ -7,6 +7,7 @@ import java.util.Collections;
 import java.util.Scanner;
 
 /*Si lees esto es que está editado*/
+
 public class arrays1
 {
     static int ejercicio;
@@ -23,6 +24,8 @@ public class arrays1
         int ejercicios;
         do
         {
+            System.out.println("------------------------Archivo modificado-------------------------------");
+            System.out.println("Hola");
             System.out.println("Ejercicios de Arrays: \n ---Nivel Padawan---");
             System.out.println("1. Números reales");
             System.out.println("2. Suma de valores");
