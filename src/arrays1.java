@@ -6,6 +6,7 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.Scanner;
 
+/*Si lees esto es que está editado*/
 public class arrays1
 {
     static int ejercicio;
