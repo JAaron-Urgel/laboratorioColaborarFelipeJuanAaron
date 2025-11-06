@@ -25,7 +25,7 @@ public class arrays1
         do
         {
             System.out.println("------------------------Archivo modificado-------------------------------");
-            System.out.println("Hola Felipe");
+            System.out.println("Hola Felipe Solbes");
             System.out.println("Ejercicios de Arrays: \n ---Nivel Padawan---");
             System.out.println("1. Números reales");
             System.out.println("2. Suma de valores");
